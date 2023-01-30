@@ -29,7 +29,7 @@ You can use the online service [YAML Validator](https://codebeautify.org/yaml-va
 
 <div class='note'>
 
-Please pay attention to not storing private data (passwords, API keys, etc.) directly in your `configuration.yaml` file. Private data can be stored in either a [separate file](/docs/configuration/secrets/) or in [environmental variables](/docs/configuration/yaml/#using-environment-variables), which circumvents this security problem.
+Please pay attention to not storing private data (passwords, API keys, etc.) directly in your `configuration.yaml` file. Private data can be stored in either a [separate file](/docs/configuration/secrets/) or in [environmental variables](/docs/configuration/yaml/#environment-variables), which circumvents this security problem.
 
 </div>
 
